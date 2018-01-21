@@ -1,0 +1,41 @@
+
+{
+	"feed" : [
+    {
+      "id": 1,
+      "name": "National Geographic Channel",
+      "image": "https://api.androidhive.info/feed/img/cosmos.jpg",
+      "status": "\"Science is a beautiful and emotional human endeavor,\" says Brannon Braga, executive producer and director. \"And Cosmos is all about making science an experience.\",
+      "profilePic": null,
+      "timeStamp": "1403375851930",
+      "url": null
+    },
+    {
+      "id": 2,
+      "name": "TIME",
+      "image": "https://api.androidhive.info/feed/img/time_best.jpg",
+      "status": "30 years of Cirque du Soleil\'s best photos",
+      "profilePic": null,
+      "timeStamp": "1403375851930",
+      "url": null
+    },
+    {
+      "id": 5,
+      "name": "Abraham Lincoln",
+      "image": null,
+      "status": "That some achieve great success, is proof to all that others can achieve it as well",
+      "profilePic": null,
+      "timeStamp": "1403375851930",
+      "url": null
+    },
+    {
+      "id": 3,
+      "name": "Discovery",
+      "image": "https://api.androidhive.info/feed/img/discovery_mos.jpg",
+      "status": "A team of Austrian scientists has developed a laser system that causes fruit flies to dance.",
+      "profilePic": null,
+      "timeStamp": "1403375851930",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+[19-Jan-2018 18:46:27 UTC] PHP Warning:  require_once(./core_vol/class.user2.php): failed to open stream: No such file or directory in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:46:27 UTC] PHP Fatal error:  require_once(): Failed opening required './core_vol/class.user2.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:46:31 UTC] PHP Warning:  require_once(./core_vol/class.user2.php): failed to open stream: No such file or directory in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:46:31 UTC] PHP Fatal error:  require_once(): Failed opening required './core_vol/class.user2.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:46:31 UTC] PHP Warning:  require_once(./core_vol/class.user2.php): failed to open stream: No such file or directory in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:46:32 UTC] PHP Fatal error:  require_once(): Failed opening required './core_vol/class.user2.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:47:11 UTC] PHP Warning:  require_once(./core_vol/class.user2.php): failed to open stream: No such file or directory in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:47:11 UTC] PHP Fatal error:  require_once(): Failed opening required './core_vol/class.user2.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:47:11 UTC] PHP Warning:  require_once(./core_vol/class.user2.php): failed to open stream: No such file or directory in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:47:11 UTC] PHP Fatal error:  require_once(): Failed opening required './core_vol/class.user2.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/register/habba.php on line 2
+[19-Jan-2018 18:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'user2' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'user2' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'user2' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'user2' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:03 UTC] PHP Fatal error:  Uncaught Error: Class 'user2' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:03 UTC] PHP Fatal error:  Uncaught Error: Class 'user2' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:19 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:19 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:25 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:26 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:42 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:42 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:44 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:50:44 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:51:29 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:51:29 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:51:31 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 18:51:31 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/ahabba/public_html/register/habba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 3
+[19-Jan-2018 19:12:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.players' doesn't exist in /home/ahabba/public_html/register/habba.php:28
+Stack trace:
+#0 /home/ahabba/public_html/register/habba.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 28
+[19-Jan-2018 19:12:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.players' doesn't exist in /home/ahabba/public_html/register/habba.php:28
+Stack trace:
+#0 /home/ahabba/public_html/register/habba.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/register/habba.php on line 28

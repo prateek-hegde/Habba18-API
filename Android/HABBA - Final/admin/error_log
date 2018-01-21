@@ -1,0 +1,290 @@
+[01-Nov-2017 23:56:21 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$about in /home/meowmdma/public_html/habba18/admin/update.php on line 10
+[01-Nov-2017 23:56:21 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$rules in /home/meowmdma/public_html/habba18/admin/update.php on line 11
+[01-Nov-2017 23:56:21 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$eventhead in /home/meowmdma/public_html/habba18/admin/update.php on line 12
+[01-Nov-2017 23:56:21 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$numb in /home/meowmdma/public_html/habba18/admin/update.php on line 13
+[01-Nov-2017 23:56:21 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$pmoney in /home/meowmdma/public_html/habba18/admin/update.php on line 15
+[01-Nov-2017 23:56:21 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$date in /home/meowmdma/public_html/habba18/admin/update.php on line 16
+[01-Nov-2017 23:56:21 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$time in /home/meowmdma/public_html/habba18/admin/update.php on line 17
+[02-Nov-2017 00:56:56 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/update.php on line 113
+[02-Nov-2017 00:58:03 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/update.php on line 113
+[02-Nov-2017 00:58:36 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/update.php on line 113
+[02-Nov-2017 01:02:35 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/subc_add.php on line 100
+[02-Nov-2017 01:04:35 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/update.php on line 112
+[02-Nov-2017 01:05:22 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/subc_add.php on line 98
+[02-Nov-2017 01:06:56 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/update.php on line 112
+[02-Nov-2017 01:09:17 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/subc_add.php on line 98
+[02-Nov-2017 01:09:30 Asia/Calcutta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/meowmdma/public_html/habba18/admin/subc_add.php on line 98
+[02-Nov-2017 01:33:09 Asia/Calcutta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/meowmdma/public_html/habba18/admin/update.php on line 28
+[01-Nov-2017 20:04:25 UTC] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home/meowmdma/public_html/habba18/admin/update.php on line 29
+[02-Nov-2017 08:19:18 Asia/Calcutta] PHP Fatal error:  Call to undefined method PDOStatement::bidParam() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 6
+[02-Nov-2017 08:19:19 Asia/Calcutta] PHP Fatal error:  Call to undefined method PDOStatement::bidParam() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 6
+[02-Nov-2017 08:21:28 Asia/Calcutta] PHP Fatal error:  Call to undefined method PDOStatement::bidParam() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 7
+[02-Nov-2017 08:21:29 Asia/Calcutta] PHP Fatal error:  Call to undefined method PDOStatement::bidParam() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 7
+[02-Nov-2017 08:21:31 Asia/Calcutta] PHP Fatal error:  Call to undefined method PDOStatement::bidParam() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 7
+[02-Nov-2017 08:21:33 Asia/Calcutta] PHP Fatal error:  Call to undefined method PDOStatement::bidParam() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 7
+[02-Nov-2017 08:23:10 Asia/Calcutta] PHP Fatal error:  Call to undefined method PDOStatement::bidParam() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 7
+[02-Nov-2017 02:54:00 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 6
+[02-Nov-2017 02:54:23 UTC] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 6
+[02-Nov-2017 08:28:31 Asia/Calcutta] PHP Fatal error:  Call to undefined function NOW() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 12
+[02-Nov-2017 08:28:33 Asia/Calcutta] PHP Fatal error:  Call to undefined function NOW() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 12
+[02-Nov-2017 08:28:40 Asia/Calcutta] PHP Fatal error:  Call to undefined function NOW() in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 12
+[02-Nov-2017 08:29:41 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION mdma_db.GETDATE does not exist' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:9
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 9
+[02-Nov-2017 08:29:47 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION mdma_db.GETDATE does not exist' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:9
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 9
+[02-Nov-2017 12:51:11 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:11
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 11
+[02-Nov-2017 12:52:56 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:11
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 11
+[02-Nov-2017 12:52:58 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:11
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 11
+[02-Nov-2017 12:59:37 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:11
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 11
+[02-Nov-2017 13:03:40 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':30' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:20
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 20
+[02-Nov-2017 13:03:42 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':30' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:20
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 20
+[02-Nov-2017 15:39:17 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:11
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 11
+[02-Nov-2017 15:41:13 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:11
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 11
+[02-Nov-2017 15:41:15 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:11
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 11
+[02-Nov-2017 15:53:34 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':30' at line 1' in /home/meowmdma/public_html/habba18/admin/timelineupdate.php:6
+Stack trace:
+#0 /home/meowmdma/public_html/habba18/admin/timelineupdate.php(6): PDOStatement->execute()
+#1 {main}
+  thrown in /home/meowmdma/public_html/habba18/admin/timelineupdate.php on line 6
+[02-Nov-2017 23:25:17 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Dota' for key 'name' in /home/ahabba/public_html/habba18/admin/subc.php:22
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/subc.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/subc.php on line 22
+[03-Nov-2017 04:48:33 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING), expecting ',' or ')' in /home/ahabba/public_html/habba18/admin/subc.php on line 53
+[03-Nov-2017 10:24:09 Asia/Calcutta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ahabba/public_html/habba18/admin/subc_add.php on line 19
+[03-Nov-2017 10:28:43 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cid' cannot be null in /home/ahabba/public_html/habba18/admin/subc.php:22
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/subc.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/subc.php on line 22
+[03-Nov-2017 10:30:34 Asia/Calcutta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ahabba/public_html/habba18/admin/subc_add.php on line 19
+[03-Nov-2017 10:34:31 Asia/Calcutta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ahabba/public_html/habba18/admin/subc_add.php on line 19
+[03-Nov-2017 12:49:41 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ahabba/public_html/habba18/admin/update.php:118) in /home/ahabba/public_html/habba18/admin/update.php on line 121
+[03-Nov-2017 12:50:46 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ahabba/public_html/habba18/admin/update.php:118) in /home/ahabba/public_html/habba18/admin/update.php on line 120
+[03-Nov-2017 13:03:20 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cid' cannot be null in /home/ahabba/public_html/habba18/admin/subc.php:22
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/subc.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/subc.php on line 22
+[03-Nov-2017 13:03:27 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cid' cannot be null in /home/ahabba/public_html/habba18/admin/subc.php:22
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/subc.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/subc.php on line 22
+[03-Nov-2017 13:03:49 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cid' cannot be null in /home/ahabba/public_html/habba18/admin/subc.php:22
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/subc.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/subc.php on line 22
+[03-Nov-2017 15:09:16 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.images' doesn't exist in /home/ahabba/public_html/habba18/class.user.php:200
+Stack trace:
+#0 /home/ahabba/public_html/habba18/class.user.php(200): PDOStatement->execute()
+#1 /home/ahabba/public_html/habba18/class.user.php(179): USER->getFileName()
+#2 /home/ahabba/public_html/habba18/admin/addMEME.php(9): USER->uploadImage('sign.jpg', 31545)
+#3 {main}
+  thrown in /home/ahabba/public_html/habba18/class.user.php on line 200
+[03-Nov-2017 15:10:06 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.images' doesn't exist in /home/ahabba/public_html/habba18/class.user.php:200
+Stack trace:
+#0 /home/ahabba/public_html/habba18/class.user.php(200): PDOStatement->execute()
+#1 /home/ahabba/public_html/habba18/class.user.php(179): USER->getFileName()
+#2 /home/ahabba/public_html/habba18/admin/addMEME.php(9): USER->uploadImage('raspberry_pi_ci...', 78276)
+#3 {main}
+  thrown in /home/ahabba/public_html/habba18/class.user.php on line 200
+[03-Nov-2017 15:11:03 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.images' doesn't exist in /home/ahabba/public_html/habba18/class.user.php:200
+Stack trace:
+#0 /home/ahabba/public_html/habba18/class.user.php(200): PDOStatement->execute()
+#1 /home/ahabba/public_html/habba18/class.user.php(179): USER->getFileName()
+#2 /home/ahabba/public_html/habba18/admin/addMEME.php(9): USER->uploadImage('raspberry_pi_ci...', '78276<br>')
+#3 {main}
+  thrown in /home/ahabba/public_html/habba18/class.user.php on line 200
+[03-Nov-2017 15:14:38 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.images' doesn't exist in /home/ahabba/public_html/habba18/class.user.php:200
+Stack trace:
+#0 /home/ahabba/public_html/habba18/class.user.php(200): PDOStatement->execute()
+#1 /home/ahabba/public_html/habba18/class.user.php(179): USER->getFileName()
+#2 /home/ahabba/public_html/habba18/admin/addMEME.php(9): USER->uploadImage('Array<br>', '78276<br>')
+#3 {main}
+  thrown in /home/ahabba/public_html/habba18/class.user.php on line 200
+[03-Nov-2017 15:15:01 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.images' doesn't exist in /home/ahabba/public_html/habba18/class.user.php:200
+Stack trace:
+#0 /home/ahabba/public_html/habba18/class.user.php(200): PDOStatement->execute()
+#1 /home/ahabba/public_html/habba18/class.user.php(179): USER->getFileName()
+#2 /home/ahabba/public_html/habba18/admin/addMEME.php(9): USER->uploadImage('Array<br>', '78276<br>')
+#3 {main}
+  thrown in /home/ahabba/public_html/habba18/class.user.php on line 200
+[03-Nov-2017 15:15:49 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.images' doesn't exist in /home/ahabba/public_html/habba18/class.user.php:200
+Stack trace:
+#0 /home/ahabba/public_html/habba18/class.user.php(200): PDOStatement->execute()
+#1 /home/ahabba/public_html/habba18/class.user.php(179): USER->getFileName()
+#2 /home/ahabba/public_html/habba18/admin/addMEME.php(9): USER->uploadImage('<br>', '78276<br>')
+#3 {main}
+  thrown in /home/ahabba/public_html/habba18/class.user.php on line 200
+[03-Nov-2017 15:15:55 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.images' doesn't exist in /home/ahabba/public_html/habba18/class.user.php:200
+Stack trace:
+#0 /home/ahabba/public_html/habba18/class.user.php(200): PDOStatement->execute()
+#1 /home/ahabba/public_html/habba18/class.user.php(179): USER->getFileName()
+#2 /home/ahabba/public_html/habba18/admin/addMEME.php(9): USER->uploadImage('<br>', '78276<br>')
+#3 {main}
+  thrown in /home/ahabba/public_html/habba18/class.user.php on line 200
+[03-Nov-2017 15:17:24 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.images' doesn't exist in /home/ahabba/public_html/habba18/class.user.php:200
+Stack trace:
+#0 /home/ahabba/public_html/habba18/class.user.php(200): PDOStatement->execute()
+#1 /home/ahabba/public_html/habba18/class.user.php(179): USER->getFileName()
+#2 /home/ahabba/public_html/habba18/admin/addMEME.php(10): USER->uploadImage('raspberry_pi_ci...', '78276<br>')
+#3 {main}
+  thrown in /home/ahabba/public_html/habba18/class.user.php on line 200
+[03-Nov-2017 15:20:53 Asia/Calcutta] PHP Warning:  move_uploaded_file(memes/4.jpg): failed to open stream: No such file or directory in /home/ahabba/public_html/habba18/class.user.php on line 183
+[03-Nov-2017 15:20:53 Asia/Calcutta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVTKHd2' to 'memes/4.jpg' in /home/ahabba/public_html/habba18/class.user.php on line 183
+[03-Nov-2017 15:31:16 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/habba18/admin/addMEME.php:14
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/addMEME.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/addMEME.php on line 14
+[03-Nov-2017 10:50:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/habba18/admin/addMEME.php on line 17
+[03-Nov-2017 10:50:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/habba18/admin/addMEME.php on line 17
+[03-Nov-2017 19:17:15 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/ahabba/public_html/habba18/admin/addMEME.php:13
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/addMEME.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/addMEME.php on line 13
+[03-Nov-2017 19:17:38 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/ahabba/public_html/habba18/admin/addMEME.php:13
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/addMEME.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/addMEME.php on line 13
+[03-Nov-2017 19:18:20 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/ahabba/public_html/habba18/admin/addMEME.php:13
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/addMEME.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/addMEME.php on line 13
+[03-Nov-2017 19:20:46 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/ahabba/public_html/habba18/admin/addMEME.php:15
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/addMEME.php(15): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/addMEME.php on line 15
+[03-Nov-2017 19:36:11 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/ahabba/public_html/habba18/admin/addMEME.php:15
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/addMEME.php(15): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/addMEME.php on line 15
+[05-Nov-2017 14:34:16 UTC] PHP Warning:  require_once(class.user.php): failed to open stream: No such file or directory in /home/ahabba/public_html/habba18/admin/test2.php on line 2
+[05-Nov-2017 14:34:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.user.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/habba18/admin/test2.php on line 2
+[05-Nov-2017 14:34:18 UTC] PHP Warning:  require_once(class.user.php): failed to open stream: No such file or directory in /home/ahabba/public_html/habba18/admin/test2.php on line 2
+[05-Nov-2017 14:34:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.user.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/habba18/admin/test2.php on line 2
+[06-Nov-2017 06:47:10 UTC] PHP Warning:  require_once(class.user.php): failed to open stream: No such file or directory in /home/ahabba/public_html/habba18/admin/test.php on line 2
+[06-Nov-2017 06:47:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.user.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/habba18/admin/test.php on line 2
+[06-Nov-2017 06:47:12 UTC] PHP Warning:  require_once(class.user.php): failed to open stream: No such file or directory in /home/ahabba/public_html/habba18/admin/test.php on line 2
+[06-Nov-2017 06:47:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.user.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/habba18/admin/test.php on line 2
+[06-Nov-2017 06:47:13 UTC] PHP Warning:  require_once(class.user.php): failed to open stream: No such file or directory in /home/ahabba/public_html/habba18/admin/test.php on line 2
+[06-Nov-2017 06:47:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.user.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/habba18/admin/test.php on line 2
+[06-Nov-2017 06:47:22 UTC] PHP Warning:  require_once(class.user.php): failed to open stream: No such file or directory in /home/ahabba/public_html/habba18/admin/test.php on line 2
+[06-Nov-2017 06:47:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.user.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/ahabba/public_html/habba18/admin/test.php on line 2
+[06-Nov-2017 06:56:58 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/ahabba/public_html/habba18/admin/test.php on line 7
+[06-Nov-2017 06:57:00 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/ahabba/public_html/habba18/admin/test.php on line 7
+[06-Nov-2017 07:07:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/ahabba/public_html/habba18/admin/test.php on line 26
+[06-Nov-2017 12:52:31 Asia/Calcutta] PHP Warning:  array_fill() expects exactly 3 parameters, 2 given in /home/ahabba/public_html/habba18/admin/test.php on line 15
+[06-Nov-2017 12:52:34 Asia/Calcutta] PHP Warning:  array_fill() expects exactly 3 parameters, 2 given in /home/ahabba/public_html/habba18/admin/test.php on line 15
+[06-Nov-2017 13:10:30 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS Block' at line 1 in /home/ahabba/public_html/habba18/admin/test2.php:9
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/test2.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/test2.php on line 9
+[06-Nov-2017 07:40:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ahabba/public_html/habba18/admin/test2.php on line 12
+[06-Nov-2017 07:41:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ahabba/public_html/habba18/admin/test2.php on line 13
+[06-Nov-2017 07:41:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ahabba/public_html/habba18/admin/test2.php on line 13
+[06-Nov-2017 13:14:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/ahabba/public_html/habba18/admin/test2.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/test2.php on line 9
+[06-Nov-2017 13:21:32 Asia/Calcutta] PHP Warning:  implode(): Invalid arguments passed in /home/ahabba/public_html/habba18/admin/test.php on line 12
+[06-Nov-2017 13:21:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function rray_column() in /home/ahabba/public_html/habba18/admin/test.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/test.php on line 14
+[06-Nov-2017 13:21:34 Asia/Calcutta] PHP Warning:  implode(): Invalid arguments passed in /home/ahabba/public_html/habba18/admin/test.php on line 12
+[06-Nov-2017 13:21:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function rray_column() in /home/ahabba/public_html/habba18/admin/test.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/test.php on line 14
+[06-Nov-2017 13:21:45 Asia/Calcutta] PHP Warning:  implode(): Invalid arguments passed in /home/ahabba/public_html/habba18/admin/test.php on line 12
+[06-Nov-2017 13:22:21 Asia/Calcutta] PHP Warning:  implode(): Invalid arguments passed in /home/ahabba/public_html/habba18/admin/test.php on line 13
+[06-Nov-2017 08:15:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 08:15:16 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 08:18:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ahabba/public_html/habba18/admin/test.php on line 11
+[06-Nov-2017 13:53:06 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS Block' at line 1 in /home/ahabba/public_html/habba18/admin/test.php:8
+Stack trace:
+#0 /home/ahabba/public_html/habba18/admin/test.php(8): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/test.php on line 8
+[06-Nov-2017 13:54:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/ahabba/public_html/habba18/admin/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/test.php on line 8
+[06-Nov-2017 13:54:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/ahabba/public_html/habba18/admin/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/test.php on line 8
+[06-Nov-2017 13:54:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/ahabba/public_html/habba18/admin/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/habba18/admin/test.php on line 8
+[06-Nov-2017 14:12:12 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 14:12:12 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 14:12:12 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 14:12:18 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 14:12:18 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 14:12:18 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 14:12:20 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 14:12:20 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 14:12:20 Asia/Calcutta] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ahabba/public_html/habba18/admin/test.php on line 24
+[06-Nov-2017 23:16:46 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ahabba/public_html/habba18/admin/test.php on line 14
+[06-Nov-2017 23:16:56 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ahabba/public_html/habba18/admin/test.php on line 11
+[06-Nov-2017 23:17:38 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ahabba/public_html/habba18/admin/test.php on line 11
+[06-Nov-2017 23:17:46 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ahabba/public_html/habba18/admin/test.php on line 11
+[06-Nov-2017 17:51:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ahabba/public_html/habba18/admin/test.php on line 34
+[06-Nov-2017 17:52:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/ahabba/public_html/habba18/admin/test.php on line 33
+[06-Nov-2017 17:52:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/ahabba/public_html/habba18/admin/test.php on line 33
+[11-Nov-2017 05:44:19 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/ahabba/public_html/habba18/admin/test2.php on line 9
+[11-Nov-2017 05:44:22 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/ahabba/public_html/habba18/admin/test2.php on line 9

@@ -1,0 +1,682 @@
+[06-Jan-2018 19:18:54 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/ahabba/public_html/apl/register.php:29
+Stack trace:
+#0 /home/ahabba/public_html/apl/register.php(29): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register.php on line 29
+[06-Jan-2018 19:19:00 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/ahabba/public_html/apl/register.php:29
+Stack trace:
+#0 /home/ahabba/public_html/apl/register.php(29): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register.php on line 29
+[06-Jan-2018 19:20:40 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/ahabba/public_html/apl/register.php:29
+Stack trace:
+#0 /home/ahabba/public_html/apl/register.php(29): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register.php on line 29
+[06-Jan-2018 19:24:38 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/ahabba/public_html/apl/register.php:29
+Stack trace:
+#0 /home/ahabba/public_html/apl/register.php(29): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register.php on line 29
+[06-Jan-2018 19:25:50 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list' in /home/ahabba/public_html/apl/register.php:30
+Stack trace:
+#0 /home/ahabba/public_html/apl/register.php(30): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register.php on line 30
+[06-Jan-2018 20:51:51 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image' in 'field list' in /home/ahabba/public_html/apl/image_upload.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 11
+[06-Jan-2018 20:52:10 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/image_upload.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 11
+[06-Jan-2018 21:01:10 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/image_upload.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 11
+[06-Jan-2018 21:01:56 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/image_upload.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 11
+[06-Jan-2018 21:04:50 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/image_upload.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 11
+[06-Jan-2018 21:06:23 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/img2.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/img2.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/img2.php on line 11
+[06-Jan-2018 21:06:24 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/image_upload.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 11
+[06-Jan-2018 21:06:31 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/image_upload.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 11
+[06-Jan-2018 21:08:40 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/image_upload.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 11
+[06-Jan-2018 21:10:56 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/img2.php:11
+Stack trace:
+#0 /home/ahabba/public_html/apl/img2.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/img2.php on line 11
+[06-Jan-2018 21:24:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:24:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 15:59:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 15:59:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 15:59:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 16:00:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 36
+[06-Jan-2018 21:30:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:31:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:31:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:32:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:32:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:33:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:35:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:35:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:35:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[06-Jan-2018 21:36:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ahabba/public_html/apl/image_upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 16
+[15-Jan-2018 03:30:57 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE), expecting ',' or ')' in /home/ahabba/public_html/apl/add_dept.php on line 18
+[15-Jan-2018 03:34:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/ahabba/public_html/apl/add_dept.php on line 17
+[15-Jan-2018 03:35:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/ahabba/public_html/apl/add_dept.php on line 17
+[15-Jan-2018 13:02:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ahabba/public_html/apl/add_dept.php on line 3
+[15-Jan-2018 13:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/ahabba/public_html/apl/clg.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/clg.php on line 19
+[15-Jan-2018 13:36:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/ahabba/public_html/apl/clg.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/clg.php on line 19
+[15-Jan-2018 15:23:01 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 15:23:04 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 15:23:04 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 15:23:05 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 15:23:32 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 15:23:43 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 15:24:03 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 15:24:50 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 15:24:52 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/ahabba/public_html/apl/image_upload.php on line 43
+[15-Jan-2018 16:16:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 34
+[15-Jan-2018 16:17:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 44
+[15-Jan-2018 16:18:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 44
+[15-Jan-2018 21:50:58 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 18
+[15-Jan-2018 21:51:04 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 18
+[15-Jan-2018 21:51:08 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 18
+[15-Jan-2018 22:12:12 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 10
+[15-Jan-2018 22:13:46 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 10
+[15-Jan-2018 22:15:09 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 18
+[15-Jan-2018 22:16:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to private method USER::getFileName() from context '' in /home/ahabba/public_html/apl/image_upload.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 17
+[15-Jan-2018 22:22:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to private method USER::getFileName() from context '' in /home/ahabba/public_html/apl/image_upload.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 17
+[15-Jan-2018 22:27:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to private method USER::getFileName() from context '' in /home/ahabba/public_html/apl/image_upload.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 17
+[15-Jan-2018 22:46:22 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 10
+[15-Jan-2018 22:46:37 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 10
+[15-Jan-2018 22:47:30 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ahabba/public_html/apl/image_upload.php on line 10
+[15-Jan-2018 17:53:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ahabba/public_html/apl/register.php on line 14
+[15-Jan-2018 17:54:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ahabba/public_html/apl/register.php on line 14
+[15-Jan-2018 17:55:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ahabba/public_html/apl/register.php on line 15
+[15-Jan-2018 17:55:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ahabba/public_html/apl/register.php on line 15
+[15-Jan-2018 17:56:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ahabba/public_html/apl/register.php on line 15
+[15-Jan-2018 23:27:20 Asia/Calcutta] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/ahabba/public_html/apl/register.php on line 48
+[15-Jan-2018 23:58:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[15-Jan-2018 23:59:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[15-Jan-2018 23:59:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[15-Jan-2018 23:59:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:02:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:07:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:07:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:07:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:08:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:08:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:09:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:09:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:09:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:09:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:09:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:09:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:10:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:10:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:10:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:10:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:10:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:10:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:11:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:12:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:12:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:12:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:12:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:12:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:12:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:12:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:12:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[15-Jan-2018 18:44:32 UTC] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[15-Jan-2018 18:44:35 UTC] PHP Parse error:  syntax error, unexpected '$website' (T_VARIABLE) in /home/ahabba/public_html/apl/class.user.php on line 176
+[16-Jan-2018 00:18:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.' in /home/ahabba/public_html/apl/class.user.php on line 177
+[16-Jan-2018 00:22:39 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image' cannot be null in /home/ahabba/public_html/apl/register2.php:37
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 37
+[16-Jan-2018 00:22:56 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'name' cannot be null in /home/ahabba/public_html/apl/register2.php:37
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 37
+[15-Jan-2018 18:53:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/ahabba/public_html/apl/register2.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 23
+[16-Jan-2018 00:24:04 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'name' cannot be null in /home/ahabba/public_html/apl/register2.php:37
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 37
+[16-Jan-2018 00:24:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/ahabba/public_html/apl/register2.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 25
+[16-Jan-2018 00:25:39 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'name' cannot be null in /home/ahabba/public_html/apl/register2.php:37
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 37
+[16-Jan-2018 00:26:37 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'name' cannot be null in /home/ahabba/public_html/apl/register2.php:37
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 37
+[16-Jan-2018 00:27:01 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'name' cannot be null in /home/ahabba/public_html/apl/register2.php:36
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 36
+[16-Jan-2018 00:27:14 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'name' cannot be null in /home/ahabba/public_html/apl/register2.php:36
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 36
+[16-Jan-2018 11:43:21 Asia/Calcutta] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/ahabba/public_html/apl/register2.php on line 31
+[16-Jan-2018 11:43:21 Asia/Calcutta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpk4NuFa' to 'images/.' in /home/ahabba/public_html/apl/register2.php on line 31
+[16-Jan-2018 06:29:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ahabba/public_html/apl/register2.php on line 44
+[16-Jan-2018 06:30:08 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ahabba/public_html/apl/register2.php on line 44
+[16-Jan-2018 15:10:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/img2.php on line 9
+[16-Jan-2018 15:11:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/img2.php on line 9
+[16-Jan-2018 15:11:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ahabba/public_html/apl/img2.php on line 4
+[16-Jan-2018 15:11:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ahabba/public_html/apl/img2.php on line 4
+[16-Jan-2018 21:15:55 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_apl.vol' doesn't exist in /home/ahabba/public_html/apl/register2.php:107
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(107): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 107
+[16-Jan-2018 21:17:03 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_apl.vol' doesn't exist in /home/ahabba/public_html/apl/register2.php:107
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(107): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 107
+[16-Jan-2018 21:19:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/ahabba/public_html/apl/register2.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 107
+[16-Jan-2018 15:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function checkInput() on null in /home/ahabba/public_html/apl/register2.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 73
+[16-Jan-2018 21:20:11 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_apl.vol' doesn't exist in /home/ahabba/public_html/apl/register2.php:107
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(107): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 107
+[16-Jan-2018 21:20:32 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_apl.vol' doesn't exist in /home/ahabba/public_html/apl/register2.php:106
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(106): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 106
+[16-Jan-2018 21:20:37 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_apl.vol' doesn't exist in /home/ahabba/public_html/apl/register2.php:106
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(106): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 106
+[16-Jan-2018 21:50:30 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/ahabba/public_html/apl/register2.php on line 87
+[16-Jan-2018 16:36:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_db.college' doesn't exist in /home/ahabba/public_html/apl/clg.php:6
+Stack trace:
+#0 /home/ahabba/public_html/apl/clg.php(6): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/clg.php on line 6
+[17-Jan-2018 14:21:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[17-Jan-2018 14:22:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[17-Jan-2018 14:22:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[17-Jan-2018 14:22:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[17-Jan-2018 14:22:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[17-Jan-2018 14:22:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[17-Jan-2018 14:22:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 04:11:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 04:12:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 04:13:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 04:13:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 04:13:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 04:13:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 04:13:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 04:14:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 07:05:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 08:40:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause' in /home/ahabba/public_html/apl/dept.php:22
+Stack trace:
+#0 /home/ahabba/public_html/apl/dept.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/dept.php on line 22
+[18-Jan-2018 08:40:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause' in /home/ahabba/public_html/apl/dept.php:22
+Stack trace:
+#0 /home/ahabba/public_html/apl/dept.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/dept.php on line 22
+[18-Jan-2018 08:41:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause' in /home/ahabba/public_html/apl/dept.php:22
+Stack trace:
+#0 /home/ahabba/public_html/apl/dept.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/dept.php on line 22
+[18-Jan-2018 08:42:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'college_name' in 'where clause' in /home/ahabba/public_html/apl/dept.php:22
+Stack trace:
+#0 /home/ahabba/public_html/apl/dept.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/dept.php on line 22
+[18-Jan-2018 08:42:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'college_name' in 'where clause' in /home/ahabba/public_html/apl/dept.php:22
+Stack trace:
+#0 /home/ahabba/public_html/apl/dept.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/dept.php on line 22
+[18-Jan-2018 10:58:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 10:58:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 10:58:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 10:58:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 10:58:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 10:59:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 11:04:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 11:05:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 11:05:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 11:05:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 11:06:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[18-Jan-2018 11:06:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register.php on line 54
+[19-Jan-2018 06:13:32 UTC] PHP Warning:  file_get_contents(re.png): failed to open stream: No such file or directory in /home/ahabba/public_html/apl/img2.php on line 16
+[19-Jan-2018 11:44:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ahabba/public_html/apl/image_upload.php on line 62
+[19-Jan-2018 06:14:25 UTC] PHP Warning:  file_get_contents(re.png): failed to open stream: No such file or directory in /home/ahabba/public_html/apl/img2.php on line 16
+[19-Jan-2018 06:15:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/image_upload.php on line 91
+[19-Jan-2018 12:20:46 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ahabba/public_html/apl/image_upload.php on line 128
+[19-Jan-2018 12:20:46 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ahabba/public_html/apl/image_upload.php on line 128
+[19-Jan-2018 12:21:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ahabba/public_html/apl/image_upload.php on line 128
+[19-Jan-2018 12:21:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ahabba/public_html/apl/image_upload.php on line 128
+[19-Jan-2018 12:22:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ahabba/public_html/apl/image_upload.php on line 128
+[19-Jan-2018 12:22:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ahabba/public_html/apl/image_upload.php on line 128
+[19-Jan-2018 12:33:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_count() in /home/ahabba/public_html/apl/image_upload.php:125
+Stack trace:
+#0 /home/ahabba/public_html/apl/image_upload.php(80): getFileName(NULL)
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/image_upload.php on line 125
+[19-Jan-2018 14:25:47 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ahabba_apl.vol' doesn't exist in /home/ahabba/public_html/apl/register2.php:95
+Stack trace:
+#0 /home/ahabba/public_html/apl/register2.php(95): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ahabba/public_html/apl/register2.php on line 95
+[19-Jan-2018 11:52:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register2.php on line 124
+[19-Jan-2018 11:52:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register2.php on line 124
+[19-Jan-2018 11:53:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register2.php on line 124
+[19-Jan-2018 11:55:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register2.php on line 124
+[19-Jan-2018 11:57:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ahabba/public_html/apl/register2.php on line 124
+[19-Jan-2018 13:09:18 UTC] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/ahabba/public_html/apl/register.php on line 63
+[19-Jan-2018 13:09:32 UTC] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/ahabba/public_html/apl/register.php on line 63
+[19-Jan-2018 18:39:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::lastInsertId() in /home/ahabba/public_html/apl/register.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/register.php on line 56
+[19-Jan-2018 18:41:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method USER::lastInsertId() in /home/ahabba/public_html/apl/register.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/register.php on line 56
+[19-Jan-2018 18:42:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method USER::lastInsertId() in /home/ahabba/public_html/apl/register.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ahabba/public_html/apl/register.php on line 56
+[19-Jan-2018 21:36:17 UTC] PHP Warning:  Unknown: POST Content-Length of 12564348 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Jan-2018 21:37:39 UTC] PHP Warning:  Unknown: POST Content-Length of 12564347 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Jan-2018 22:35:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ahabba/public_html/apl/img2.php on line 10
+[19-Jan-2018 22:35:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ahabba/public_html/apl/img2.php on line 10
+[21-Jan-2018 03:53:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/testmail.php on line 81
+[21-Jan-2018 03:53:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ahabba/public_html/apl/testmail.php on line 81
+[21-Jan-2018 05:22:20 UTC] PHP Warning:  Unknown: POST Content-Length of 10699772 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Jan-2018 06:34:07 UTC] PHP Warning:  Unknown: POST Content-Length of 10699772 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Jan-2018 12:12:36 UTC] PHP Warning:  Unknown: POST Content-Length of 10699772 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
