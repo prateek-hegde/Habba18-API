@@ -3,9 +3,9 @@ class Database
 {
      
     private $host = "localhost";
-    private $db_name = "ahabba_db"; //apl
-    private $username = "ahabba_app";
-    private $password = "app123";
+    private $db_name = ""; //apl
+    private $username = "";
+    private $password = "";
     public $conn;
      
     public function dbConnection()
